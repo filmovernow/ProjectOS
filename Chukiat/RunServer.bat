@@ -1,0 +1,1 @@
+docker run -d --name server --network chukiat chuki
